@@ -1,0 +1,1 @@
+python main.py --csv_file data/data1.csv --graph_dir bench_files/ --output_dir results/evaluation --eval_only --model_dir results/experiment2 --batch_size 1 --target levels

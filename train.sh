@@ -1,0 +1,2 @@
+# Training with custom parameters
+python main.py --csv_file data/data1.csv --graph_dir bench_files/ --output_dir results/experiment3 --target levels --epochs 10 --batch_size 1 --lr 0.0005 --hidden_dim 128 --seed 123
